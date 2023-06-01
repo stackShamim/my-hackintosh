@@ -1,4 +1,4 @@
-# ignore DS_Store files
+# ignore the following files
 .DS_Store
 .contentFlavour
 .contentVisibility
